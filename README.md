@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dev.%20DongukHan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!&fontSize=48&fontAlign=50&fontAlignY=50&section=header&animation=fadeIn&desc=cubecat100's%20GitHub&reversal=false&strokeWidth=1" />
 
 <h3 align="center">Skills</h3>
 
