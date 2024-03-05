@@ -28,5 +28,10 @@
   <img src="https://img.shields.io/badge/Ecilpse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=black"/></a>&nbsp
 </p>
 
+<h5 align="center">Projects</h5>
+<p align="center">
+  <a href="https://github.com/cubecat100/DDiTi"> 학사관리 시스템, DDiTi </a>
+</p>
+
 
 <br>
