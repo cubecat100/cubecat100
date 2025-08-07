@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSharp-007396?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-7952B3?style=flat-square&logo=visualstudiocode&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ecilpse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
 </p>
 
 <h5 align="center">Projects</h5>
