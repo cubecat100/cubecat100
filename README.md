@@ -33,7 +33,8 @@
 
 <h5 align="center">Projects</h5>
 <p align="center">
-  <a href="https://github.com/cubecat100/DDiTi"> 학사관리 시스템, DDiTi </a>
+  <a href="https://github.com/cubecat100/DDiTi"> 학사관리 시스템, DDiTi </a></br>
+  <a href="https://github.com/cubecat100/EFT_item_checker"> ETF Item checker </a>
 </p>
 
 
