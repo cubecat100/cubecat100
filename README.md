@@ -37,6 +37,12 @@
   <a href="https://github.com/cubecat100/EFT_item_checker"> 📦 ETF Item checker </a></br>
   <a href="https://github.com/cubecat100/youtube_timeline_comments"> 💬 유튜브 타임라인 댓글 확장 프로그램</a></br>
   <a href="https://github.com/cubecat100/PhotoMosaicMaker"> 🧩 포토모자이크 제작 프로그램</a></br>
+
+  
+</p>
+<p align="center">
+  <a href="https://github.com/cubecat100/DeadbodyAutoRemover"> 🧹 DeadbodyAutoRemover</a> - Project Zomboid 모드</br>
+  <a href="https://github.com/cubecat100/StampTheSpire2"> ♟️ StampTheSpire2</a> - Slay the spare 2 모드</br>
 </p>
 
 
