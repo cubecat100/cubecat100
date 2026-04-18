@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/cubecat100/DeadbodyAutoRemover"> 🧹 DeadbodyAutoRemover</a> - Project Zomboid 모드</br>
-  <a href="https://github.com/cubecat100/StampTheSpire2"> ♟️ StampTheSpire2</a> - Slay the spare 2 모드</br>
+  <a href="https://github.com/cubecat100/StampTheSpire2"> ♟️ StampTheSpire2</a> - Slay the spire 2 모드</br>
 </p>
 
 
