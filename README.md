@@ -41,8 +41,6 @@
   
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/cubecat100/SlayTheSpire2ModList"> ♟️ Slay the spire 2 모드 목록</a> </br>
 </p>
